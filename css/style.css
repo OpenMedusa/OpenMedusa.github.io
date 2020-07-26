@@ -945,3 +945,25 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.home{
+}
+
+.home h3{
+  text-align: center;
+}
+
+.home p{
+  text-align: center;
+}
+
+hr{
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.title{
+  text-align: center;
+  font-size: 45px;
+}
+
